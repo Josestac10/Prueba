@@ -25,7 +25,7 @@ namespace Tarea
             cad = txtFrase.Text;
             aux = "";
             cont = cad.Length - 1;
-
+            // hola probando
             while (cont >= 0)
             {
                 aux = aux + cad[cont];
